@@ -1,2 +1,3 @@
-# JFileChoser_Locale
-JFileChoser_Locale
+# JFileChooser Locale
+
+JFileChooser_Locale
